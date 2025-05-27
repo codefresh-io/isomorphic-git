@@ -1,6 +1,6 @@
 {
-  "name": "isomorphic-git",
-  "version": "0.0.0-development",
+  "name": "@noam-codefresh/isomorphic-git",
+  "version": "1.25.2-fix-capabilities-request",
   "description": "A pure JavaScript reimplementation of git for node and browsers",
   "type": "module",
   "typings": "./index.d.ts",
